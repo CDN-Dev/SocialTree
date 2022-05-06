@@ -1,0 +1,60 @@
+:root {
+    --body-bg-color: #FAF7FD;
+    --purple: #BB99DD;
+  }
+body{
+    background-color: #FAF7FD;
+}
+a{
+    text-decoration: none;
+}
+img{
+    padding: 10px;
+}
+#perfil{
+   
+    margin: 50px;
+    text-align: center;
+ 
+}
+
+#img{
+    padding: 2px;
+    height: 200px;
+    border-radius: 100%;
+    border: solid #BB99DD;
+    
+    
+}
+#insta{
+    font-family: 'Poppins';
+    Font-Weight: 300px;
+    text-align: center;
+    color: #BB99DD;
+    padding: 5px;
+    text-decoration: none;
+}
+.box{
+    border: 2px solid;
+    color: #BB99DD;
+    font-family: 'Poppins';
+    Font-Weight: 600px;
+    text-decoration: none;
+    padding-top: 12px;
+    padding-left: 141px;
+    padding-bottom: 13px;
+    padding-right: 138px;
+
+}
+.link{
+    text-align: center;
+    height: 50px;
+    padding: 16px;
+   
+   
+}
+#icons{
+    text-align: center;
+
+    
+}
